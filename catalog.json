@@ -1,0 +1,402 @@
+[
+  {
+    "product_name": "Ноутбук SuperBook Pro",
+    "price": 85000.50,
+    "category": {
+      "name": "Электроника",
+      "description": "Компьютеры, смартфоны и гаджеты"
+    }
+  },
+  {
+    "product_name": "Смартфон PhoneX 15",
+    "price": 72000.00,
+    "category": {
+      "name": "Электроника",
+      "description": "Компьютеры, смартфоны и гаджеты"
+    }
+  },
+  {
+    "product_name": "Планшет TabUltra 11",
+    "price": 45000.00,
+    "category": {
+      "name": "Электроника",
+      "description": "Компьютеры, смартфоны и гаджеты"
+    }
+  },
+  {
+    "product_name": "Наушники SoundMax Pro",
+    "price": 12500.00,
+    "category": {
+      "name": "Электроника",
+      "description": "Компьютеры, смартфоны и гаджеты"
+    }
+  },
+  {
+    "product_name": "Умные часы FitWatch 5",
+    "price": 18900.00,
+    "category": {
+      "name": "Электроника",
+      "description": "Компьютеры, смартфоны и гаджеты"
+    }
+  },
+  {
+    "product_name": "Монитор 4K ViewPerfect 27",
+    "price": 32000.00,
+    "category": {
+      "name": "Электроника",
+      "description": "Компьютеры, смартфоны и гаджеты"
+    }
+  },
+  {
+    "product_name": "Механическая клавиатура KeyMaster",
+    "price": 8500.00,
+    "category": {
+      "name": "Электроника",
+      "description": "Компьютеры, смартфоны и гаджеты"
+    }
+  },
+  {
+    "product_name": "Игровая мышь ClickPro RGB",
+    "price": 4500.00,
+    "category": {
+      "name": "Электроника",
+      "description": "Компьютеры, смартфоны и гаджеты"
+    }
+  },
+  {
+    "product_name": "Внешний SSD диск 1TB",
+    "price": 9000.00,
+    "category": {
+      "name": "Электроника",
+      "description": "Компьютеры, смартфоны и гаджеты"
+    }
+  },
+  {
+    "product_name": "Кофемашина Barista 3000",
+    "price": 45000.00,
+    "category": {
+      "name": "Бытовая техника",
+      "description": "Техника для кухни и дома"
+    }
+  },
+  {
+    "product_name": "Микроволновая печь Solo",
+    "price": 12000.00,
+    "category": {
+      "name": "Бытовая техника",
+      "description": "Техника для кухни и дома"
+    }
+  },
+  {
+    "product_name": "Робот-пылесос CleanBot X",
+    "price": 28000.00,
+    "category": {
+      "name": "Бытовая техника",
+      "description": "Техника для кухни и дома"
+    }
+  },
+  {
+    "product_name": "Холодильник FrostGuard 300",
+    "price": 55000.00,
+    "category": {
+      "name": "Бытовая техника",
+      "description": "Техника для кухни и дома"
+    }
+  },
+  {
+    "product_name": "Стиральная машина WashMaster 7kg",
+    "price": 38000.00,
+    "category": {
+      "name": "Бытовая техника",
+      "description": "Техника для кухни и дома"
+    }
+  },
+  {
+    "product_name": "Чайник электрический BoilFast",
+    "price": 2500.00,
+    "category": {
+      "name": "Бытовая техника",
+      "description": "Техника для кухни и дома"
+    }
+  },
+  {
+    "product_name": "Блендер MixPro 500W",
+    "price": 4200.00,
+    "category": {
+      "name": "Бытовая техника",
+      "description": "Техника для кухни и дома"
+    }
+  },
+  {
+    "product_name": "Утюг паровой SteamGlide",
+    "price": 5500.00,
+    "category": {
+      "name": "Бытовая техника",
+      "description": "Техника для кухни и дома"
+    }
+  },
+  {
+    "product_name": "Кондиционер AirCool 12",
+    "price": 41000.00,
+    "category": {
+      "name": "Бытовая техника",
+      "description": "Техника для кухни и дома"
+    }
+  },
+  {
+    "product_name": "Кроссовки RunFast Pro",
+    "price": 8900.00,
+    "category": {
+      "name": "Одежда и обувь",
+      "description": "Мужская, женская и детская одежда"
+    }
+  },
+  {
+    "product_name": "Куртка зимняя NorthPeak",
+    "price": 15000.00,
+    "category": {
+      "name": "Одежда и обувь",
+      "description": "Мужская, женская и детская одежда"
+    }
+  },
+  {
+    "product_name": "Джинсы Classic Blue",
+    "price": 4500.00,
+    "category": {
+      "name": "Одежда и обувь",
+      "description": "Мужская, женская и детская одежда"
+    }
+  },
+  {
+    "product_name": "Футболка хлопковая Basic",
+    "price": 1200.00,
+    "category": {
+      "name": "Одежда и обувь",
+      "description": "Мужская, женская и детская одежда"
+    }
+  },
+  {
+    "product_name": "Ботинки кожаные WinterWalk",
+    "price": 9500.00,
+    "category": {
+      "name": "Одежда и обувь",
+      "description": "Мужская, женская и детская одежда"
+    }
+  },
+  {
+    "product_name": "Рюкзак городской UrbanStyle",
+    "price": 3500.00,
+    "category": {
+      "name": "Одежда и обувь",
+      "description": "Мужская, женская и детская одежда"
+    }
+  },
+  {
+    "product_name": "Шапка вязаная WarmHead",
+    "price": 1500.00,
+    "category": {
+      "name": "Одежда и обувь",
+      "description": "Мужская, женская и детская одежда"
+    }
+  },
+  {
+    "product_name": "Спортивный костюм ActiveLife",
+    "price": 6000.00,
+    "category": {
+      "name": "Одежда и обувь",
+      "description": "Мужская, женская и детская одежда"
+    }
+  },
+  {
+    "product_name": "Изучаем Python",
+    "price": 1500.00,
+    "category": {
+      "name": "Книги",
+      "description": "Художественная и учебная литература"
+    }
+  },
+  {
+    "product_name": "Мастер и Маргарита",
+    "price": 800.00,
+    "category": {
+      "name": "Книги",
+      "description": "Художественная и учебная литература"
+    }
+  },
+  {
+    "product_name": "Чистый код",
+    "price": 1200.00,
+    "category": {
+      "name": "Книги",
+      "description": "Художественная и учебная литература"
+    }
+  },
+  {
+    "product_name": "Гарри Поттер и Философский камень",
+    "price": 950.00,
+    "category": {
+      "name": "Книги",
+      "description": "Художественная и учебная литература"
+    }
+  },
+  {
+    "product_name": "Алгоритмы: построение и анализ",
+    "price": 2100.00,
+    "category": {
+      "name": "Книги",
+      "description": "Художественная и учебная литература"
+    }
+  },
+  {
+    "product_name": "1984",
+    "price": 700.00,
+    "category": {
+      "name": "Книги",
+      "description": "Художественная и учебная литература"
+    }
+  },
+  {
+    "product_name": "Sapiens. Краткая история человечества",
+    "price": 1100.00,
+    "category": {
+      "name": "Книги",
+      "description": "Художественная и учебная литература"
+    }
+  },
+  {
+    "product_name": "Грокаем алгоритмы",
+    "price": 900.00,
+    "category": {
+      "name": "Книги",
+      "description": "Художественная и учебная литература"
+    }
+  },
+  {
+    "product_name": "Гантели разборные 2x10кг",
+    "price": 4500.00,
+    "category": {
+      "name": "Спорт и отдых",
+      "description": "Тренажеры, инвентарь и туристическое снаряжение"
+    }
+  },
+  {
+    "product_name": "Коврик для йоги EcoMat",
+    "price": 1800.00,
+    "category": {
+      "name": "Спорт и отдых",
+      "description": "Тренажеры, инвентарь и туристическое снаряжение"
+    }
+  },
+  {
+    "product_name": "Велосипед горный TrailBlazer",
+    "price": 25000.00,
+    "category": {
+      "name": "Спорт и отдых",
+      "description": "Тренажеры, инвентарь и туристическое снаряжение"
+    }
+  },
+  {
+    "product_name": "Палатка туристическая 4-местная",
+    "price": 12000.00,
+    "category": {
+      "name": "Спорт и отдых",
+      "description": "Тренажеры, инвентарь и туристическое снаряжение"
+    }
+  },
+  {
+    "product_name": "Спальный мешок Comfort -5C",
+    "price": 5500.00,
+    "category": {
+      "name": "Спорт и отдых",
+      "description": "Тренажеры, инвентарь и туристическое снаряжение"
+    }
+  },
+  {
+    "product_name": "Мяч футбольный ProMatch",
+    "price": 3000.00,
+    "category": {
+      "name": "Спорт и отдых",
+      "description": "Тренажеры, инвентарь и туристическое снаряжение"
+    }
+  },
+  {
+    "product_name": "Скакалка скоростная SpeedJump",
+    "price": 800.00,
+    "category": {
+      "name": "Спорт и отдых",
+      "description": "Тренажеры, инвентарь и туристическое снаряжение"
+    }
+  },
+  {
+    "product_name": "Рюкзак тактический 40L",
+    "price": 4000.00,
+    "category": {
+      "name": "Спорт и отдых",
+      "description": "Тренажеры, инвентарь и туристическое снаряжение"
+    }
+  },
+  {
+    "product_name": "Шампунь укрепляющий 500мл",
+    "price": 600.00,
+    "category": {
+      "name": "Красота и здоровье",
+      "description": "Косметика, витамины и средства гигиены"
+    }
+  },
+  {
+    "product_name": "Крем для лица увлажняющий",
+    "price": 1200.00,
+    "category": {
+      "name": "Красота и здоровье",
+      "description": "Косметика, витамины и средства гигиены"
+    }
+  },
+  {
+    "product_name": "Витаминный комплекс Daily",
+    "price": 900.00,
+    "category": {
+      "name": "Красота и здоровье",
+      "description": "Косметика, витамины и средства гигиены"
+    }
+  },
+  {
+    "product_name": "Зубная паста отбеливающая",
+    "price": 350.00,
+    "category": {
+      "name": "Красота и здоровье",
+      "description": "Косметика, витамины и средства гигиены"
+    }
+  },
+  {
+    "product_name": "Фен для волос PowerDry 2000W",
+    "price": 3500.00,
+    "category": {
+      "name": "Красота и здоровье",
+      "description": "Косметика, витамины и средства гигиены"
+    }
+  },
+  {
+    "product_name": "Маска для лица тканевая",
+    "price": 150.00,
+    "category": {
+      "name": "Красота и здоровье",
+      "description": "Косметика, витамины и средства гигиены"
+    }
+  },
+  {
+    "product_name": "Электробритва SmoothShave",
+    "price": 7000.00,
+    "category": {
+      "name": "Красота и здоровье",
+      "description": "Косметика, витамины и средства гигиены"
+    }
+  },
+  {
+    "product_name": "Гель для душа свежесть 750мл",
+    "price": 400.00,
+    "category": {
+      "name": "Красота и здоровье",
+      "description": "Косметика, витамины и средства гигиены"
+    }
+  }
+]
